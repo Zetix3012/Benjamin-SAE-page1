@@ -8,7 +8,7 @@
 
 ## Aperçu du projet
 
-![Aperçu de la page](https://github.com/Zetix3012/Benjamin-SAE-page1/blob/main/preview.png)
+![Aperçu de la page](./preview.png)
 
 ---
 
