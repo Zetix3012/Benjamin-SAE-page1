@@ -24,7 +24,7 @@ Elle propose :
 
 ## Technologies utilisées
 
-* ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) **HTML5** : Structuration sémantique de la page et de ses sections.
+* ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) **HTML5** : Structuration logiques de la page et de ses sections.
 * ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) **CSS3** : Mise en page, animations fluides, gestion des couleurs et adaptabilité.
 
 ---
