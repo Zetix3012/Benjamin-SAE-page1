@@ -1,2 +1,6 @@
-# Benjamin-SAE-page1
-Voici la page Economie fait par benjamin pour la SAE 
+# Page économie
+
+Cette page a été créer par **Benjamin**, elle comporte :
+
+  - Une présentation simple et claire de ce qui auras dans la page a l'aide de petite carte interactive qui renvoye au paragraphe qui lui correspond.
+  -  
